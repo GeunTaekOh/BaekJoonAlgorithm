@@ -7,7 +7,7 @@
 //
 
 #include <stdio.h>
-#include <algorithm>        //이걸써야 소트함수쓸수있음. qsort, sort함수 도 다 있음. qsort기본으로 오름차순으로설정해줌.
+#include <algorithm>        
 using namespace std;
 
 int main(int argc, const char * argv[]) {
